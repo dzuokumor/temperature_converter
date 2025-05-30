@@ -13,7 +13,7 @@ A polished Flutter application that converts temperatures between Celsius and Fa
 -  **Animated Transitions**: Applies subtle scale animations via `AnimatedSwitcher` for a smooth user experience.
 -  **Copy & Clear Buttons**: Copy the result or clear the display with intuitive controls.
 
-## 🚀 Installation
+## Installation
 
 1. Ensure Flutter is installed: [Flutter Setup Guide](https://docs.flutter.dev/get-started/install)
 2. Clone this repository:
