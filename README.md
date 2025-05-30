@@ -18,7 +18,7 @@ A polished Flutter application that converts temperatures between Celsius and Fa
 1. Ensure Flutter is installed: [Flutter Setup Guide](https://docs.flutter.dev/get-started/install)
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/temperature_converter_app.git
+   git clone https://github.com/dzuokumor/temperature_converter_app.git
    ```
 3. Install dependencies:
    ```bash
